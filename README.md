@@ -1,2 +1,2 @@
 # bookbot
-BookBot is my only public git project!
+BookBot is NOT my first git project!
